@@ -1,0 +1,7 @@
+este archivo es de jorge tamayo
+realizado en la clase de platzi de git
+.
+agregamos text en linea 4
+.
+agregamos texto a linea6
+agregamos texto
